@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/joli/.platformio/penv/bin:/Users/joli/.platformio/penv:/usr/local/git/bin:/sw/bin/:/usr/local/bin:/usr/local/:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin/:/Users/joli/.platformio/penv/bin/",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
